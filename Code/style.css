@@ -1,9 +1,19 @@
-body{
-  font-family: Arial;
+body {
   background-color: #f9fafb;
-  text-align: center:
+  font-family: 'Poppins', sans-serif;
 }
-h1{
-  color: #4f46E5;
+.sidebar {
+  background-color: #111827;
+  min-height: 100vh;
 }
-  
+.sidebar .nav-link {
+  color: white;
+}
+.sidebar .nav-link:hover {
+  background-color: #4F46E5;
+  border-radius: 5px;
+}
+.card {
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
