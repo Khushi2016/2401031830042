@@ -34,7 +34,7 @@ Repository/
 │
 ├── Figma/        → UI Screens (Design)
 ├── Code/         → Website Source Code
-├── report.docx   → Project Report
+├── Aura Academy Project Report.docx   → Project Report
 ```
 
 ---
